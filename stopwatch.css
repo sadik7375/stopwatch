@@ -1,0 +1,52 @@
+body {
+
+	background-color: skyblue;
+	display: flex;
+	justify-content: center;
+	align-items: center ;
+	height: 100vh;
+}
+#contanier{
+	color: red;
+
+
+}
+.digit{
+	font-size: 150px;
+	font-weight: bold;
+}
+.text
+{
+	font-size: 60px;
+	font-weight: bold;
+}
+#btn-container
+{
+	text-align: center;
+	margin-top: 40px;
+	display: flex;
+	align-items: center ;
+
+
+}
+.btn
+{
+	padding: 7px 25px;
+	font-size: 25px;
+	margin: 0px 10px;
+	color: yellow;
+	border: 0px;
+	cursor: pointer;
+	
+
+}
+#start{
+background-color: gray;
+}
+#stop{
+background-color:green;
+}
+#reset{
+background-color:red;
+
+}
